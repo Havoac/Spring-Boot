@@ -79,7 +79,10 @@ public class BookService {
         // }
         // }
 
-        book.setId(bId);
+        book.setId(bId); // the book contains the data to be updated and bId contains the id of the book
+                         // whose data to be updated
+                         // So we update the id of the new Book to the id of the previous book and save.
+                         // No deletion and addition is required
         this.bookRepository.save(book);
 
         return book;
