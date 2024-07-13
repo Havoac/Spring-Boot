@@ -26,11 +26,16 @@ public class BookService {
         Book book = null;
         // book = list.stream().filter(e -> e.getId() == id).findFirst().get();
 
-        for (Book tempBook : list) {
-            if (tempBook.getId() == id) {
-                book = tempBook;
-                break;
+        try {
+            for (Book tempBook : list) {
+                if (tempBook.getId() == id) {
+                    book = tempBook;
+                    break;
+                }
             }
+
+        } catch (Exception e) {
+            e.printStackTrace();
         }
 
         return book;
