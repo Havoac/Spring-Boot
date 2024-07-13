@@ -41,4 +41,29 @@ public class BookService {
         list.add(b);
         return b;
     }
+
+    public List<Book> DeleteBook(int bId) {
+        List<Book> totalDeletedBooks = new ArrayList<Book>();
+
+        for (Book b : list) {
+            if (b.getId() == bId)
+                totalDeletedBooks.add(b);
+        }
+
+        for (Book b : totalDeletedBooks)
+            list.remove(b);
+
+        return totalDeletedBooks;
+    }
+
+    public Book UpdateBook(Book book, int bId) {
+        for (Book b : list) {
+            if (b.getId() == bId) {
+                b.setAuthor(book.getAuthor());
+                b.setTitle(book.getTitle());
+            }
+        }
+
+        return book;
+    }
 }
