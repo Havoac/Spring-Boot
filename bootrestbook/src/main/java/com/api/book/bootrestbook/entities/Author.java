@@ -1,10 +1,13 @@
 package com.api.book.bootrestbook.entities;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 
 @Entity
@@ -17,6 +20,19 @@ public class Author {
     @Column(name = "first_name")
     private String firstName;
     private String lastName;
+
+    // to avoid creating an extra column in database
+    @OneToOne(mappedBy = "author")
+    @JsonBackReference // don't get in it. book data wouldn't be visible
+    private Book book;
+
+    public Book getBook() {
+        return book;
+    }
+
+    public void setBook(Book book) {
+        this.book = book;
+    }
 
     public Author() {
     }

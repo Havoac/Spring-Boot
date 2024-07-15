@@ -1,5 +1,7 @@
 package com.api.book.bootrestbook.entities;
 
+import com.fasterxml.jackson.annotation.JsonManagedReference;
+
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -25,6 +27,7 @@ public class Book {
     // detach the parent entity, the same operation will be automatically applied to
     // the associated entity.
     @OneToOne(cascade = CascadeType.ALL)
+    @JsonManagedReference
     private Author author;
 
     public Book() {
