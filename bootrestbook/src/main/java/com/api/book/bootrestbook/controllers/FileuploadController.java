@@ -27,7 +27,7 @@ public class FileuploadController {
 
             if (isFileUploaded) {
                 // ResponseEntity.ok(ServletUriComponentsBuilder.fromCurrentContextPath() =>
-                // http://localhost:8198/
+                // http://localhost:8198
                 // The net url is => http://localhost:8198/image/FileName
                 // the file will be saved in target/classes/com/static/image {This is the
                 // dynamic path, since after deploying this is where the file gets access from}
