@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
+import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.api.book.bootrestbook.helper.FileUploadHelper;
 
@@ -24,9 +25,15 @@ public class FileuploadController {
 
             boolean isFileUploaded = fileUploadHelper.UploadFile(file);
 
-            if (isFileUploaded)
-                return ResponseEntity.ok("File is successfully uploaded");
-
+            if (isFileUploaded) {
+                // ResponseEntity.ok(ServletUriComponentsBuilder.fromCurrentContextPath() =>
+                // http://localhost:8198/
+                // The net url is => http://localhost:8198/image/FileName
+                // the file will be saved in target/classes/com/static/image {This is the
+                // dynamic path, since after deploying this is where the file gets access from}
+                return ResponseEntity.ok(ServletUriComponentsBuilder.fromCurrentContextPath().path("/image/")
+                        .path(file.getOriginalFilename()).toUriString());
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }
