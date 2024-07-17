@@ -40,4 +40,10 @@ public class MyController {
 
 		return "condition";
 	}
+	
+	// handler for including fragments
+	@GetMapping("/service")
+	public String ServicesHandler(Model m) {
+		return "service";
+	}
 }
