@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Conditional Statement</title>
+</head>
+<body>
+
+	<h1 th:if="${gender}=='M'">Male</h1>
+	<h1 th:unless="${gender}=='M'">Female</h1>
+
+	<div th:switch="${#lists.size(list)}">
+		<h1 th:case="'0'">List contains 0 elements</h1>
+		<h1 th:case="'1'">List contains 1 element</h1>
+		<h1 th:case="*">List contains more than 1 elements</h1>
+	</div>
+</body>
+</html>
