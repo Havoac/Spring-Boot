@@ -5,9 +5,10 @@
 <title>Footer template</title>
 </head>
 <body>
-	<footer id="fragmentTag" th:fragment="footer1">
+	<footer id="fragmentTag" th:fragment="footer1(title,subtitle)">
 		<div class="container">
-			<h1>About my Footer page</h1>
+			<h1 th:text="${title}"></h1>
+			<h1 th:text="${subtitle}"></h1>
 			<h1>I like DSA</h1>
 			<h2>I am currently learning SpringBoot</h2>
 		</div>

@@ -8,6 +8,7 @@
 	<h1>This is the service page. It is all about Fragments
 		implementation</h1>
 
-	<footer id="hostTag" th:insert="footer::footer1"></footer>
+	<footer id="hostTag"
+		th:replace="footer::footer1(${title},${subtitle})"></footer>
 </body>
 </html>

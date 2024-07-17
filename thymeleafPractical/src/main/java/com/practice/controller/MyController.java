@@ -1,5 +1,6 @@
 package com.practice.controller;
 
+import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.List;
 
@@ -35,15 +36,17 @@ public class MyController {
 	public String ConditionalHandler(Model m) {
 		m.addAttribute("gender", "M");
 
-		List<Integer> list = List.of(1,2,3,4);
+		List<Integer> list = List.of(1, 2, 3, 4);
 		m.addAttribute("list", list);
 
 		return "condition";
 	}
-	
+
 	// handler for including fragments
 	@GetMapping("/service")
 	public String ServicesHandler(Model m) {
+		m.addAttribute("title", "I like golgappe");
+		m.addAttribute("subtitle", LocalDateTime.now().toString());
 		return "service";
 	}
 }
