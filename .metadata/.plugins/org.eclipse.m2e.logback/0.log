@@ -776,3 +776,126 @@
 2024-07-17 21:24:23,198 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
 2024-07-17 21:24:23,208 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
 2024-07-17 21:25:05,095 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 21:25:05,097 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 21:25:05,107 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-17 21:25:47,938 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 21:25:47,940 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 21:25:47,949 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:03:27,616 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:03:27,618 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:03:27,624 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:03:38,095 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:03:38,097 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:03:38,102 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:04:03,503 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:04:03,505 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:04:03,510 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:04:54,175 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:04:54,177 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:04:54,183 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:04:56,908 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:04:56,910 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:04:56,915 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:05:21,815 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:05:21,818 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:05:21,825 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:09:21,439 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:09:21,441 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:09:21,446 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:09:23,794 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:09:23,796 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:09:23,801 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:09:33,526 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:09:33,528 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:09:33,534 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:09:52,687 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:09:52,689 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:09:52,694 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:10:00,048 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:10:00,050 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:10:00,055 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:10:15,340 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:10:15,342 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:10:15,347 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:10:17,385 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:10:17,387 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:10:17,392 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:11:09,005 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:11:09,007 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:11:09,013 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:11:10,045 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:11:10,048 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:11:10,053 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:11:33,076 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:11:33,078 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:11:33,083 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:11:48,739 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:11:48,742 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:11:48,747 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:12:55,195 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:12:55,197 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:12:55,204 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:13:11,727 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:13:11,730 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:13:11,737 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:13:36,948 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:13:36,950 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:13:36,955 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:14:02,654 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:14:02,656 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:14:02,661 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:16:04,014 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:16:04,016 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:16:04,021 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:16:06,243 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:16:06,245 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:16:06,250 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:16:55,617 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:16:55,619 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:16:55,623 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:18:34,573 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:18:34,587 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2024-07-18 07:18:34,594 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:18:47,006 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:18:47,012 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2024-07-18 07:18:47,023 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:18:49,079 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:18:49,085 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2024-07-18 07:18:49,095 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:19:52,427 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:19:52,430 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:19:52,435 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:20:35,222 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:20:35,225 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:20:35,233 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:21:19,336 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:21:19,339 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:21:19,343 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:21:21,507 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:21:21,509 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:21:21,514 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:21:41,756 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:21:41,758 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:21:41,763 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:22:15,424 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:22:15,426 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:22:15,432 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:22:28,454 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:22:28,457 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:22:28,464 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:22:55,357 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:22:55,359 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:22:55,364 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:23:27,601 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:23:27,603 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:23:27,609 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:23:38,187 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-18 07:23:38,190 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:23:38,195 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:24:08,255 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:24:08,266 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-07-18 07:24:08,279 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:24:09,415 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-18 07:24:09,453 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-07-18 07:24:09,480 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shiva\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\SpringBoot\thymeleafPractical\src\test\resources
+2024-07-18 07:24:48,061 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes

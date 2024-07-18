@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {
+	background: red;
+}
+
+section {
+	background: blue;
+	color:white;
+	padding:30px;
+}

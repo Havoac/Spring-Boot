@@ -49,4 +49,16 @@ public class MyController {
 		m.addAttribute("subtitle", LocalDateTime.now().toString());
 		return "service";
 	}
+
+	// for new about
+	@GetMapping("/newabout")
+	public String NewAbout() {
+		return "aboutnew";
+	}
+
+	// for contact
+	@GetMapping("/contact")
+	public String contact() {
+		return "contact";
+	}
 }
