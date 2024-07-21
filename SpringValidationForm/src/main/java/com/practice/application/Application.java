@@ -1,13 +1,13 @@
-package com.practice.valid;
+package com.practice.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication(scanBasePackages = "com.practice")
-public class ValidApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ValidApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }

@@ -30,7 +30,7 @@
                         <label for="exampleInputPassword1">User email</label> <input type="email" name="email"
                             class="form-control" th:value="${loginData.email}"
                             th:classappend="${#fields.hasErrors('email') ? 'is-invalid' : ''}"
-                            id="exampleInputPassword1" placeholder="Password">
+                            id="exampleInputPassword1" placeholder="Email">
 
                         <div th:each="e : ${#fields.errors('email')}" th:text="${e}" id="validationServer03Feedback"
                             class="invalid-feedback">

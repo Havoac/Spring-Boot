@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.practice</groupId>
-	<artifactId>valid</artifactId>
+	<artifactId>Validation_Form</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>valid</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Validation_Form</name>
+	<description>Demo project for Spring Validation (Form)</description>
 	<url/>
 	<licenses>
 		<license/>
